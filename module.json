@@ -1,0 +1,18 @@
+{
+    "name": "json.lua",
+    "author": {
+        "name": "rxi",
+        "github": "https://github.com/rxi",
+        "email": ""
+    },
+    "license":"MIT",
+    "version": "1.0.0",
+    "description": "Rehost of json.lua, a lua implementation for json",
+    "icon": "default",
+    "runtime": "Lua5.1",
+    "frameworks": ["*"],
+    "dependencies": {},
+    "documentation": "https://github.com/qeffects/json.lua/blob/master/README.md",
+    "website": "",
+    "github": "https://github.com/qeffects/json.lua"
+}
